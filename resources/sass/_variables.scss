@@ -1,0 +1,15 @@
+@font-face {
+    font-family: russo_one;
+    src: url("public/storage/fonts/russoOne/RussoOne-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: namu;
+    src: url("public/storage/fonts/namu/NAMU-1850.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+$namu_font: namu;
+$russoone_font: russo_one;
